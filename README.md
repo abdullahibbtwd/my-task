@@ -30,4 +30,4 @@ A responsive web application that fetches and displays data from JSONPlaceholder
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/jsonplaceholder-viewer.git
+git clone https://github.com/abdullahibbtwd/my-task.git
